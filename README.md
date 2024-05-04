@@ -50,6 +50,12 @@ Dataset : [Kaggle : Chest X-Ray Images (Pneumonia).](https://www.kaggle.com/data
 
 ### [8. Time Series Analysis: Predicting Stocks in NYSE and NASDAQ using CNN-LSTM.](https://github.com/ow-hash/Portfolio/blob/main/Code/Time_Series_using_CNN_LSTM.ipynb)
 
-Dataset : [yfinance.](https://pypi.org/project/yfinance/))
+Dataset : [yfinance.](https://pypi.org/project/yfinance/)
+
+<br>
+
+### [9. Dashboard: Visualize customer data.](https://github.com/ow-hash/Portfolio/blob/main/Code/Dashboard.ipynb)
+
+Dataset : [Customer Shopping Trends Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset?select=shopping_trends_updated.csv)
 
 <br>
