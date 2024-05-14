@@ -59,3 +59,9 @@ Dataset : [yfinance.](https://pypi.org/project/yfinance/)
 Dataset : [Customer Shopping Trends Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset?select=shopping_trends_updated.csv)
 
 <br>
+
+### [10. Credit Risk Analysis: Predicting loan default.](https://github.com/ow-hash/Portfolio/blob/main/Code/Credit_Risk.ipynb)
+
+Dataset : [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
+
+
